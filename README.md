@@ -65,7 +65,6 @@ Special thanks to the course instructors and TAs for their guidance, and to all 
 
 ---
 
-# 电子系统设计与实现课程大作业
 
 ## 项目简介
 
